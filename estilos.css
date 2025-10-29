@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+ 
+h1 {
+    color: #333;
+    text-align: center;
+}
+ 
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background-color: white;
+}
+ 
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+ 
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+ 
+.horarios {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: white;
+    border-radius: 5px;
+}
+ 
+.tsu-logo {
+    display: block;
+    margin: 20px auto;
+    max-width: 300px;
+}
